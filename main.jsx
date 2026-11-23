@@ -1,4 +1,4 @@
-# FocusBoard
+[# FocusBoard
 
 FocusBoard is a responsive React task management dashboard built with **React.js**, **Vite**, **JavaScript (ES6+)**, **CSS3**, **React Hooks**, **Lucide React**, and **`localStorage`** persistence. Designed with a mobile-first mindset and aligned to the assignment's Figma reference, it combines full task CRUD operations, live search and filtering, dynamic statistics, and a three-slide Focus Notes carousel.
 
@@ -49,3 +49,4 @@ focusboard/
 ├── AI_USAGE.md
 ├── package.json
 └── .gitignore
+](https://chandrasekhar-1996.github.io/FocusBoardApp/)
